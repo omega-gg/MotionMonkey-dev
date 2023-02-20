@@ -10,7 +10,7 @@ Designed to stream Internet videos from text queries.<br>
 <a href="https://omega.gg/MotionMonkey"><img src="dist/screens/MotionMonkeyA.png" alt="MotionMonkey" width="512px"></a>
 
 MotionMonkey accesses videos directly via [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo).<br>
-It supports [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent), [Youtube](https://en.wikipedia.org/wiki/Youtube), [Dailymotion](https://en.wikipedia.org/wiki/Dailymotion), [Vimeo](https://en.wikipedia.org/wiki/Vimeo) and [SoundCloud](https://en.wikipedia.org/wiki/SoundCloud).<br>
+It supports [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent), [Youtube](https://en.wikipedia.org/wiki/Youtube), [Dailymotion](https://en.wikipedia.org/wiki/Dailymotion), [Vimeo](https://en.wikipedia.org/wiki/Vimeo), [Twitch](https://en.wikipedia.org/wiki/Twitch_(service)) and [SoundCloud](https://en.wikipedia.org/wiki/SoundCloud).<br>
 All of this while serving the end user at all time and without ever showing an ad.<br>
 
 ## Technology

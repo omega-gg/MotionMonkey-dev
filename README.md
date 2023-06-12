@@ -37,7 +37,7 @@ MotionMonkey is built in C++ with [Sky kit](https://omega.gg/Sky/sources).<br>
 
 ## License
 
-Copyright (C) 2015 - 2020 MotionMonkey authors | http://omega.gg/MotionMonkey
+Copyright (C) 2015 - 2020 MotionMonkey authors | https://omega.gg/MotionMonkey
 
 ### Authors
 

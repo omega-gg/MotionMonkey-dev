@@ -9,8 +9,9 @@ Designed to stream Internet videos from text queries.<br>
 ## MotionMonkey
 <a href="https://omega.gg/MotionMonkey"><img src="dist/screens/MotionMonkeyA.png" alt="MotionMonkey" width="512px"></a>
 
-MotionMonkey accesses videos directly via [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo).<br>
-It supports [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent),
+MotionMonkey accesses and aggregates videos via the [VBML](https://omega.gg/VBML) language.<br>
+It supports [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo),
+            [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent),
             [TMDB](https://www.themoviedb.org),
             [Youtube](https://en.wikipedia.org/wiki/Youtube),
             [Dailymotion](https://en.wikipedia.org/wiki/Dailymotion),

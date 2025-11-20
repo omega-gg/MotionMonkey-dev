@@ -2,8 +2,9 @@
 ---
 [![azure](https://dev.azure.com/bunjee/MotionMonkey/_apis/build/status/omega-gg.MotionMonkey)](https://dev.azure.com/bunjee/MotionMonkey/_build)
 
-[MotionMonkey](https://omega.gg/MotionMonkey) is a [Semantic Player](https://omega.gg/about/SemanticPlayer) built for [Motion Freedom](https://omega.gg/about/MotionFreedom).<br>
+[MotionMonkey](https://omega.gg/MotionMonkey) is a [Semantic Player](https://omega.gg/about/SemanticPlayer) built for touch device.<br>
 Designed to stream Internet videos from text queries.<br>
+Built for [Motion Freedom](https://omega.gg/about/MotionFreedom) and part of the [tevolution](https://omega.gg/about/tevolution) initiative.<br>
 [omega](https://omega.gg/about) is building MotionMonkey to empower people.<br>
 
 ## MotionMonkey
